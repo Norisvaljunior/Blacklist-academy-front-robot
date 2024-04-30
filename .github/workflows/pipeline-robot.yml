@@ -1,4 +1,4 @@
-name: Academy Frontend Robot
+name: testes robot
  
 on: push
  
@@ -13,7 +13,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: https://norisvaljunior.github.io/Blacklist-academy-front-robot/report.html
+      url: https://norisvaljunior.github.io/TestesdeAPIRobotFramework/report.html
 
     steps:
       - name: clonando para o repositorio na maquina virtual
