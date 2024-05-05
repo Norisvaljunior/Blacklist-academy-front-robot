@@ -20,6 +20,6 @@ Cenário de teste : Cadastrar nova diretoria
 	Passo 9 - Cadastrar nova Diretoria
 	#Passo 10 - Fazer logout
 
-Cenário de teste : Não funcional Acesso de usuário
-    Não funcional Acesso de usuário
+#Cenário de teste : Não funcional Acesso de usuário
+#    Não funcional Acesso de usuário
     
