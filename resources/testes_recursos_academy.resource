@@ -32,7 +32,7 @@ ${diretoriasalvarButton}    //button[@type='submit'][contains(.,'SALVAR NOVO')]
 *** Keywords ***
 
 Abrir o navegador
-  Open Browser  browser=headlesschrome
+  Open Browser  browser=chrome
   Maximize Browser Window   
 
 Fechar o navegador
