@@ -1,7 +1,7 @@
 *** Settings ***
 Library  RequestsLibrary
-Library   SeleniumLibrary
-Library    String
+Library  SeleniumLibrary
+Library  String
 
 *** Variables ***
 ${URL}                   https://automacao.qacoders-academy.com.br/login
@@ -32,7 +32,7 @@ ${diretoriasalvarButton}    //button[@type='submit'][contains(.,'SALVAR NOVO')]
 *** Keywords ***
 
 Abrir o navegador
-  Open Browser  browser=chrome
+  Open Browser  browser=headlesschrome
   Maximize Browser Window   
 
 Fechar o navegador
