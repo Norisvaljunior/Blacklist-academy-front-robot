@@ -1,7 +1,7 @@
 # Projeto de Automação Frontend Qa Coders Academy T11
 
 Introdução <br/>
-Este projeto tem como objetivo demonstrar o uso do Robot  para realizar testes automatizados na plataforma ERP do Qa.Coders Academy. 
+Este projeto tem como objetivo demonstrar o uso do Robot  para realizar testes de Frontend automatizados na plataforma ERP do Qa.Coders Academy. 
 
 Para executar os testes, siga as instruções abaixo : <br>
 Configuração
